@@ -24,3 +24,5 @@ print(f"Higher down payment required: £{down_payment}")
 
 # display result
 print(f"{name}, your down payment is: {down_payment:,.2f}")
+
+print('hello changes')
