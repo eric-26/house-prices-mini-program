@@ -8,8 +8,8 @@ price = int(input('What is the house price (£)?: '))
 income = input("Do you have a high income? (yes/no): ").lower()
 credit = input("Do you have good credit? (yes/no): ").lower()
 
-has_good_credit = income == 'yes'
-has_high_income = credit == 'yes'
+has_good_credit = credit == 'yes'
+has_high_income = income == 'yes'
 
 # determine down payment
 
